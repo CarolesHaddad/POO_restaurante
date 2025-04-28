@@ -1,3 +1,7 @@
+package model.funcionario.funções;
+
+import model.funcionario.Funcionario;
+
 public class Gerente extends Funcionario {
 
     private String setorResponsavel;

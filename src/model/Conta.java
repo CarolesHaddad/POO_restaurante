@@ -1,3 +1,7 @@
+package model;
+
+import model.funcionario.funções.Garcom;
+
 import java.util.Date;
 import java.util.List;
 

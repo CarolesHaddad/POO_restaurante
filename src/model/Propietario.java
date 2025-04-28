@@ -1,3 +1,7 @@
+package model;
+
+import model.funcionario.Pessoa;
+
 import java.util.Date;
 
 public class Propietario extends Pessoa {

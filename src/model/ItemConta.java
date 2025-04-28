@@ -1,3 +1,7 @@
+package model;
+
+import model.Produto;
+
 public class ItemConta {
 
     private Produto produto;

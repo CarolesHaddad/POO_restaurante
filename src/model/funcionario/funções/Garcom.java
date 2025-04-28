@@ -1,3 +1,8 @@
+package model.funcionario.funções;
+
+import model.Conta;
+import model.funcionario.Funcionario;
+
 import java.util.List;
 
 public class Garcom extends Funcionario {

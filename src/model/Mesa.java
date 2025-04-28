@@ -1,3 +1,5 @@
+package model;
+
 public class Mesa {
 
     public Mesa(int numero, boolean ocupada) {

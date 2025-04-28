@@ -1,3 +1,5 @@
+package model.funcionario;
+
 public class Funcionario extends Pessoa {
 
     private String matricula;

@@ -1,3 +1,5 @@
+package model.funcionario;
+
 public class Pessoa {
 
     private String nome;
